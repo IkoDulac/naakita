@@ -14,7 +14,7 @@
 #
 # voice and music by Naakita Feldman-Kiss and Rachel Nam
 #
-# code by Iko Lachapelle
+# code by Iko dulac
 # 2023-11-30
 
 
